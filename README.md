@@ -17,9 +17,9 @@ Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support q
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithumon/tgbot)
+[![Group](https://Cinemacollectiongroup/button)](https://heroku.com/deploy?template=https://github.com/Albertwar/kochumuthalali)
 
-There is also a [tutorial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
+if you want any help on creating heroku clone.
 
 ## Starting the bot.
 
@@ -50,7 +50,7 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 254318997  # my telegram ID
+    OWNER_ID = 778298462  # my telegram ID
     OWNER_USERNAME = "SonOfLars"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
